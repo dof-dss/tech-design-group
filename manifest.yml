@@ -1,6 +1,6 @@
 ---
 applications:
-- name: dss-product-pages
+- name: tech-design-group
   memory: 64M
   path: ./build
   buildpack: staticfile_buildpack
