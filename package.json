@@ -1,0 +1,20 @@
+{
+  "name": "product-page-example",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "This is an example product page for use by GaaP products.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphagov/product-page-example.git"
+  },
+  "author": "Government Digital Service developers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alphagov/product-page-example/issues"
+  },
+  "homepage": "https://github.com/alphagov/product-page-example#readme",
+  "dependencies": {
+    "gaap-analytics": "^2.2.1",
+    "govuk-frontend": "^3.0.0"
+  }
+}
